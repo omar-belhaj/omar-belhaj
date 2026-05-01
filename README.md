@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Omar Belhaj
 
-<!--
-**omar-belhaj/omar-belhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M1 AI, Data & Agentics - Paris-Dauphine Tunis  
+🤖 Passionate about AI, Machine Learning & Data Science
 
-Here are some ideas to get you started:
+🚀 Actively seeking a **Summer 2026 internship**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am a Master's student in Artificial Intelligence with a strong foundation in mathematics and computer science.  
+I am particularly interested in building data-driven solutions and applying machine learning to real-world problems.
+
+## 🛠️ Skills
+
+**Languages** : Python · R · SQL  
+
+**ML & AI** : scikit-learn · TensorFlow · Keras · SHAP · LIME · pyAgrum  
+
+**Data & Visualization** : pandas · numpy · matplotlib · Tableau · Power BI  
+
+**Mathematics** : Probability · Bayesian theory · Statistics · Optimization  
+
+**Tools** : Git · Jupyter · R Markdown  
+
+## 🎯 Interests
+
+- Applied AI (Health, Environment, Sports)  
+- Probabilistic modeling  
+- Data-driven decision making  
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Belhaj-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/omar-belhaj)
+[![Email](https://img.shields.io/badge/Email-omar.belhaj%40dauphine.eu-lightgrey?style=flat&logo=gmail)](mailto:omar.belhaj@dauphine.eu)
