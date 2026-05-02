@@ -6,11 +6,6 @@
 
 🚀 Actively seeking a **Summer 2026 internship**
 
-## 🧠 About Me
-
-I am a Master's student in Artificial Intelligence with a strong foundation in mathematics and computer science.  
-I am particularly interested in building data-driven solutions and applying machine learning to real-world problems.
-
 ## 🛠️ Skills
 
 **Languages** : Python · R · SQL  
