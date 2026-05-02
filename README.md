@@ -1,10 +1,8 @@
 # 👋 Omar Belhaj
 
-🎓 M1 AI, Data & Agentics - Université Paris-Dauphine *(since Sept. 2025)*  
-🎓 B.Sc. in Mathematics & Computer Science - Université Paris-Dauphine *(July 2025)*   
+🎓 M1 AI, Data & Agentics - Université Paris-Dauphine (since Sept. 2025)   
+🎓 B.Sc. in Mathematics & Computer Science - Université Paris-Dauphine (July 2025)   
 🤖 Passionate about AI, Machine Learning & Data Science
-
-🚀 Actively seeking a **Summer 2026 internship**
 
 ## 🛠️ Skills
 
