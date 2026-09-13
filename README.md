@@ -1,8 +1,9 @@
 # 👋 Omar Belhaj
 
 🎓 Master in AI, Data and Agentic - Université Paris-Dauphine (since Sept. 2025)   
-🎓 Bachelor in Mathematics & Computer Science - Université Paris-Dauphine (July 2025)   
-🤖 Passionate about AI, Machine Learning & Data Science
+🎓 Bachelor in Mathematics & Computer Science - Université Paris-Dauphine (Sep 2022 - July 2025)   
+🤖 Passionate about AI, Machine Learning & Data Science  
+🚀 Seeking a 6-month internship from February 2027 in Data Science, ML or AI. Open to mobility.
 
 ## 🛠️ Skills
 
